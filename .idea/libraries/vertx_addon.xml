@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="vertx-addon">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/software/vert.x/modules/vertx-auth-common-3.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/software/vert.x/modules/vertx-auth-jdbc-3.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/software/vert.x/modules/vertx-auth-jwt-3.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/software/vert.x/modules/vertx-auth-shiro-3.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/software/vert.x/modules/vertx-web-3.0.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
