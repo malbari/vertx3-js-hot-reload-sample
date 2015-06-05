@@ -1,1 +1,1 @@
-See http://it.wikipedia.org/wiki/WTFPL
+See http://www.wtfpl.net/
